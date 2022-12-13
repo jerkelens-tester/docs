@@ -11,6 +11,7 @@ De doelstellingen op het gebied van informatiebeveiliging worden geconcretiseerd
 * Waarborgen van klantafspraken en het voldoen aan relevante wet- en regelgeving en andere eisen die verband houden met informatiebeveiliging;
 * Weerbaarheid en veerkracht: Minimalisatie van de schade en de overige nadelige gevolgen als gevolg van beveiligingsincidenten;
 * Een lerend en zichzelf verbeterend ISMS, gericht op continue verbetering en groei in volwassenheid.
+* Deze moet er ook nog bij :)
 
 ## Scope
 Het voorliggende beleid heeft betrekking op de processen voor de dienstverlening richting leden en klanten, als ook de interne bedrijfsprocessen ondersteunend hieraan. Alle gegevens die in relatie staan met de dienstverlening van de ANWB Groep en haar medewerkers vallen binnen het werkingsgebied. Eventueel kunnen per bedrijfsonderdeel van de ANWB aanvullingen en verduidelijkingen worden vastgesteld. Voor Unigarant geldt dat het Informatiebeveiligingsbeleid wordt vastgesteld door haar eigen directie, gezien specifieke regulering of benodigde vereisten.
